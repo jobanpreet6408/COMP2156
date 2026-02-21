@@ -1,0 +1,4 @@
+COMP 2156 is a DevOps for System Administration course.
+It teaches Git, CI/CD, automation, and cloud concepts.
+Students learn collaboration using version control systems.
+

@@ -1,0 +1,4 @@
+DevOps plays an important role in SDLC.
+It improves collaboration between development and operations.
+It helps deliver software faster and more reliably.
+
