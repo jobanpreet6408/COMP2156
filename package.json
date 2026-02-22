@@ -1,0 +1,11 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://jobanpreet6408.github.io/COMP2156",
+  "dependencies": {},
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
